@@ -1,0 +1,4 @@
+tkinter
+json
+beautifulsoup4
+MechanicalSoup

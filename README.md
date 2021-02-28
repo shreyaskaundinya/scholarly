@@ -1,11 +1,24 @@
 #SCHOLARLY
 
-# TODO
+# How to Use this App
 
-    - GUI (Achyut and Ajay)
-        - Show everything
-        - name of the college , class, scholarship amount, deadlinedate
-        - Filter
-    - Webscraping (Shreyas and Sarath)
-        - Get all the scholarships on buddy4study
-            - Getting the scholarship from diff pages
+Clone the repo
+
+```code
+git clone https://github.com/shreyaskaundinya/scholarly
+```
+
+Install required packages
+
+```code
+pip install -r requirements.txt
+or
+pip3 install -r requirements.txt
+```
+
+Run the main
+
+```code
+python scholarly_gui.py
+python scholarly_gui.py
+```
